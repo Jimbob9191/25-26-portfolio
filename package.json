@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd spiffy-star && npm run dev",
+    "build": "cd spiffy-star && npm run build",
+    "preview": "cd spiffy-star && npm run preview"
+  }
+}
